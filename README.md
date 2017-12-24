@@ -6,5 +6,5 @@ Writing everything what I daily do (relating HR) to stimulate myself)
 ```
  December, 24. Sunday.
 			  
- Start working: 1:50 p.m.
+ Start working: 2 p.m.
   
