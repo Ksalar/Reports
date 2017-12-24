@@ -8,7 +8,7 @@ Writing everything what I daily do (relating HR) to stimulate myself)
 			  
  Start working: 2 p.m.
  
- * 1. Watching videos http://discover-devtools.codeschool.com with challenges - don't understand anything about DOM. Will try watching some youtube videos:
+ * 1. Watching videos http://discover-devtools.codeschool.com with challenges - don't understand anything about DOM. Will try watching some youtube videos (3 p.m.)
  
  * 2.
   
