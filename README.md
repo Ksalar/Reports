@@ -10,7 +10,7 @@ Writing everything what I daily do (relating HR) to stimulate myself)
  
  * 1. Watching videos http://discover-devtools.codeschool.com with challenges - don't understand anything about DOM. Will try watching some youtube videos (3 p.m.)
  
- * 2. Watching videos on youtube (The Net Ninja)
+ * 2. Watching videos on youtube (The Net Ninja) (5 p.m.)
  
  ```
  var selector = document.querySelector('#someID');
