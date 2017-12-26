@@ -161,4 +161,12 @@ Learned some basic stuff about jQuery - how to use it and where to see info abou
 With billion of breaks finished at 11.30pm
 
 
+# December, 26. Tuesday.
+
+* 1. Ajax 12pm
+
+```
+Asynchronous Javascript And Xml
+```
+
 
