@@ -163,10 +163,11 @@ With billion of breaks finished at 11.30pm
 
 # December, 26. Tuesday.
 
-* 1. Ajax 12pm
+* 1. Twittler
 
 ```
-Asynchronous Javascript And Xml
+Doing twittler with video tutorial
+
 ```
 
 
