@@ -4,7 +4,7 @@ Writing everything what I daily do (relating HR) to stimulate myself)
 ```
  Daily and weekly reports
 ```
- December, 24. Sunday.
+ # December, 24. Sunday.
 			  
  Start working: 2 p.m.
  
@@ -121,4 +121,44 @@ Writing everything what I daily do (relating HR) to stimulate myself)
  
 * 8. Watched some videos about devtools (not really helpful) (till 9:30 pm)
 
- 
+# December, 25. Monday.
+
+* 1. HR Slides "Closures and Scopes" (1:40pm)
+
+```
+  Scopes
+  
+  Nothing new. Everything is kinda obvious
+  Some interesting stuff but nothing important to quote here
+  
+  Closures
+  
+  A closure is a function object that retains ongoing access to the variables of the context it was created in (even after the outer function calls it was created within have returned)
+  
+  Did the Checkpoint in HR learn.makerpass and passed with 3/7 Shocked. Marked underbar as MUST DO again after finishing precourse with paying attention on extra(extra) credit exercises!!!
+  
+```
+
+* 2. Break (3:30pm) (was very long)
+* 3. Made plan for today (a bit of CSS, jQuery and part of Twittler);
+* 4. CSS (codeschool.com) (5pm)
+      Very basic stuff, noted I need in the end of precourse spend chunk of time for CSS!!!
+* 5. jQuery (try.jquery.com) (5.30pm)
+
+```
+
+Will run this code once the DOM is "ready":
+
+jQuery(document).ready(function() {
+  <code>
+});
+
+jQuery event library
+https://api.jquery.com/category/events/
+
+Learned some basic stuff about jQuery - how to use it and where to see info about it. Definitely I need more time to learn it a bit more
+```
+With billion of breaks finished at 11.30pm
+
+
+
