@@ -163,11 +163,14 @@ With billion of breaks finished at 11.30pm
 
 # December, 26. Tuesday.
 
-* 1. Twittler
+* 1. Twittler (12.00-4.00)
 
 ```
 Doing twittler with video tutorial
 
+was pissed by understanding of spending 4 hours with no breaks for trying to make Twittler and ended with nothing! 
+
+Will watch bootstramp tutorial first, then jQuery tutorial (about an hour) and then try again make Twittler
 ```
 
 
